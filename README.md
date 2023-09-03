@@ -7,3 +7,5 @@ Excel file to website using Python and Streamlit
  3) pandas
  4) plotly
 
+# Preview of the website
+![image](https://github.com/Manul28/Excel-to-website/assets/113660278/5b6a1cf1-e234-4592-a073-8e7b6bed4b04)
